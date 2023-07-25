@@ -1,6 +1,8 @@
 body {
 	background-color: #331D2C;
 	color: #EFE1D1;
+	margin:0;
+	padding:0;
 }
 
 h1, h3 {
@@ -15,4 +17,9 @@ h1 {
 .recipeshot {
 	width: 300px;
 	height: auto;
+}
+
+.container {
+	padding: 10px 20px;
+	margin: 10px 20px;
 }
