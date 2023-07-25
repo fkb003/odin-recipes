@@ -15,11 +15,25 @@ h1 {
 }
 
 .recipeshot {
-	width: 300px;
+	width: 90%;
+	max-width: 500px;
 	height: auto;
+	margin: 0 auto;
+	display:block;
 }
 
 .container {
-	padding: 10px 20px;
-	margin: 10px 20px;
+	padding: 10px 10px;
+	margin: 10px 15px;
+}
+
+/* links */
+
+a {
+	color: #FFD1DA;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FFDBAA
 }
